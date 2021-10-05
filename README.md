@@ -22,8 +22,7 @@ Note: Be creative. You can style your page however you like as long as all the r
 ●	Migrate your form to a horizontal form.
 
 ●	Customise any implemented buttons.
-![image](https://user-images.githubusercontent.com/91540886/136055782-327e1021-a489-40bb-a29c-ed5025c79778.png)
+
 ●	Customise multiple image/thumbnail shapes.
 
 ●	Change all borders to have rounded edges and implement shadows for the boxes. If using Bootstrap version 3, you can use CSS to implement this task requirement
-![image](https://user-images.githubusercontent.com/91540886/136055934-cf115082-92bc-4a9c-9668-294fb1b6e3c9.png)
